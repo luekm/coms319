@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "Fender Jazzmaster",
+        "price": 1499.99,
+        "description": "An offset model that is very popular in the alternative scene. ",
+        "category": "Electric Guitars",
+        "image": "https://www.fmicassets.com/Damroot/GuitarVertDesktopJpg/10001/0118050732_gtr_frt_001_rr.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 2,
+        "title": "Fender Stratocaster",
+        "price": 1799.99,
+        "description": "The Stratocaster draws from more than sixty years of innovation, inspiration and evolution to meet the demands of today's working player.",
+        "category": "Electric Guitars",
+        "image": "https://www.fmicassets.com/Damroot/GuitarVertDesktopJpg/10001/0113902706_fen_ins_frt_1_rr.jpg",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    },
+    {
+        "id": 3,
+        "title": "Fender Telecaster",
+        "price": 2299.99,
+        "description": "A classic and retro option that is widely used by thousands of huge artists.",
+        "category": "Electric Guitars",
+        "image": "https://www.fmicassets.com/Damroot/GuitarVertDesktopJpg/10010/0110380857_fen_ins_frt_1_rr.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        }
+    },
+    {
+        "id": 4,
+        "title": "Fender Redondo Player",
+        "price": 449.99,
+        "description": "A great starter guitar for anyone looking to get into playing.",
+        "category": "Acoustic Guitar",
+        "image": "https://www.fmicassets.com/Damroot/GuitarVertDesktopJpg/10002/0970713503_fen_ins_frt_1_rr.jpg",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 5,
+        "title": "Fender Parlor",
+        "price": 999.99,
+        "description": "A great option for people traveling, a smaller guitar but with all the sound. ",
+        "category": "Acoustic Guitar",
+        "image": "https://www.fmicassets.com/Damroot/GuitarVertDesktopJpg/10012/0972522121_fen_ins_frt_1_rr.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 400
+        }
+    },
+    {
+        "id": 6,
+        "title": "Acoustasonic Telecaster",
+        "price": 1999.99,
+        "description": "A classic guitar reimagined with a half electric half acoustic build.",
+        "category": "Acoustic Guitar",
+        "image": "https://www.fmicassets.com/Damroot/GuitarVertDesktopJpg/10010/0972013137_fen_ins_frt_1_rr.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 70
+        }
+    }
+]
